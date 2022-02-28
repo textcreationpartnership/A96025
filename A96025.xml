@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vox infantis. Or, The propheticall child. Being a true relation of an infant that was found in a field, neere Lempster, in Herefordshire, July 16. 1649. That did declare the fore-tell of many strange things that shall ensue in England and Ireland, within the space of three yeeres. Concerning the crowning of Charles the second King of England, Scotland, and Ireland; his great victories, with the destruction of this present Parliament and Army; and many other passages touching the death of our late King. This relation is attested to bee true, as appeares by the hands of severall witnesses annexed to the booke.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96025</idno>
+            <idno type="STC">Wing V719</idno>
+            <idno type="STC">Thomason E566_27</idno>
+            <idno type="STC">ESTC R204629</idno>
+            <idno type="EEBO-CITATION">99864093</idno>
+            <idno type="PROQUEST">99864093</idno>
+            <idno type="VID">165301</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96025)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165301)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E566[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vox infantis. Or, The propheticall child. Being a true relation of an infant that was found in a field, neere Lempster, in Herefordshire, July 16. 1649. That did declare the fore-tell of many strange things that shall ensue in England and Ireland, within the space of three yeeres. Concerning the crowning of Charles the second King of England, Scotland, and Ireland; his great victories, with the destruction of this present Parliament and Army; and many other passages touching the death of our late King. This relation is attested to bee true, as appeares by the hands of severall witnesses annexed to the booke.</title>
+                  <author>Jones, Sampson.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeere 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Sampson Jones [and 13 others].</note>
+                  <note>Annotation on Thomason copy: "Aug: 2d 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:165301:1" rendition="simple:additions"/>
+                  <!-- PDF PAGE 84 -->
+                  <p>Vox Infantis. <hi>OR, THE PROPHETICALL CHILD.</hi>
+                  </p>
+                  <p>Being a true Relation of an Infant that was found in a Field, neere <hi>Lempſter,</hi> in <hi>Herefordſhire, July 16. 1649.</hi>
+                  </p>
+                  <p>That did Declare and Fore-tell of many Strange things that Shall enſue in <hi>England</hi> and <hi>Ireland,</hi> within the ſpace of three yeeres.</p>
+                  <p>Concerning the Crowning of <hi>CHARLES</hi> the ſecond King of <hi>England, Scotland,</hi> and <hi>Ireland;</hi> His great Victories, with the Deſtruction of this preſent <hi>Parliament</hi> and <hi>Army;</hi> and many other paſſages tou<g ref="char:EOLhyphen"/>ching the Death of our late King.</p>
+                  <p>This Relation is Atteſted to bee True, as appeares by the hands of ſeverall Witneſſes annexed to the Booke.</p>
+                  <p>
+                     <date>
+                        <add>Aug: 2<hi rend="sup">d.</hi> 1649</add>
+                     </date>
+                  </p>
+                  <p>LONDON, Printed in the yeere 1649.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:165301:2"/>
+                  <!-- PDF PAGE 85 -->
+                  <pb n="1" facs="tcp:165301:2"/>
+                  <!-- PDF PAGE 85 -->
+                  <head>STRANGE NEVVES OUT OF <hi>Hereford-ſhire.</hi>
+                  </head>
+                  <p>THE workes of the Lord are wonderfull! And the Heavens declare his handy worke: Before the day of Judgement Signes ſhall appeare in the Firmament, and Wonders upon the face of the Earth; Nation ſhall riſe againſt Nation, and Kingdome againſt Kingdome, there ſhall bee Famines Peſtilences and Earthquakes in divers pla<g ref="char:EOLhyphen"/>ces: Falſe Prophets ſhall ariſe, Rebellion, Murther and Deſo<g ref="char:EOLhyphen"/>lation in all places; Factions, Schiſmes and Hereſies in the Church; and Diſtractions, Feares and Oppreſſions in the Com<g ref="char:EOLhyphen"/>mon-wealth. Are not all theſe Judgements fallen upon us? For the nationall Sinnes of this Kingdome are theſe things come to paſſe? Who lookes upon theſe bloody and unnaturall Warres which have continued the ſpace of ſeaven yeeres amongſt us? Where the moſt flouriſhing Kingdome in the Chriſtian World, is now become the <hi>Theater</hi> of Miſery, and a Spectacle of Lamen<g ref="char:EOLhyphen"/>tation; where Brother hath ſlaine his Brother, and the Sonne hath not ſpared to ſheath his Sword in the Bowells of his Fa<g ref="char:EOLhyphen"/>ther, <hi>England!</hi> the Glory of <hi>Europe,</hi> is now become the
+<pb n="2" facs="tcp:165301:3"/>
+                     <!-- PDF PAGE 86 -->
+Scaene or Stage of Rebellion, Blood and Murther. A Den of Vipers. A Cage of Uncleaneneſſe; and a Nurſery of all Sects and Schiſme<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. The Subjects of the moſt virtuous Prince that ever ſwayed the Scepter in this Kingdome, have made it no Sinne or Guilt to Sacrifice the Blood of their Soveraigne to their ambitious Fury.</p>
+                  <p>How many forerunners of theſe our Calamities and Sor<g ref="char:EOLhyphen"/>rowes have beene heretofore Declared and Predicted, to fore<g ref="char:EOLhyphen"/>warne us of the Evils to come; but wee have rejected and con<g ref="char:EOLhyphen"/>temned them as Erronious and Ridiculous, but our ſufferings have made us ſenſible what our Sinne and ſecurity hath brought upon us.</p>
+                  <p>I ſhall, for your better information, particularize ſome of the moſt remarkable Miracles and Wonders that have appeared in theſe latter times.</p>
+                  <p>As for inſtance; At <hi>Bradford,</hi> in <hi>York-ſhire,</hi> in the yeere of our Lord one thouſand ſix hundred forty eight, there appeared in the Ayre the viſions of two ſeverall Armies, in Batalia skyrmi<g ref="char:EOLhyphen"/>ſhing one againſt another, with Colours flying, the ſound of Drumms were perfectly heard, and the noyſe of Muſquett-Re<g ref="char:EOLhyphen"/>ports, which continued the ſpace of three houres; to the admi<g ref="char:EOLhyphen"/>ration of many hundreds that were Spectators, and ſhortly after it vaniſhed.</p>
+                  <p>Againe, neere <hi>Skipton</hi> in the ſame Countie, not farre from <hi>Denton</hi> (where the Ld. Generall <hi>FAIRFAX</hi> was born) in the yeere of our Lord one thouſand ſix hundred fourty nine, it ray<g ref="char:EOLhyphen"/>ned blood, of which my ſelfe was an Eye-witneſſe, in the compa<g ref="char:EOLhyphen"/>ny of many more.</p>
+                  <p>In the ſame yeere (at ſix of the clock in the morning) being in <hi>June,</hi> two Sonnes appeared, and continued viſible the ſpace of two houres.</p>
+                  <p>What inordinate Thunders, Tempeſts and Earth-quakes hath beene of late yeeres; great and impetuous VVinds, and ſtormy weather, loſſes at Sea, with great Inundations on the Land.</p>
+                  <p>
+                     <pb n="3" facs="tcp:165301:3"/>
+                     <!-- PDF PAGE 86 -->At <hi>Dublin</hi> in <hi>Ireland,</hi> in the yeere of our Lord one thouſand ſix hundred fortie, Another wonderfull ſight in the Sky, where thouſands of Byrds, called <hi>Sterlings,</hi> did meete neere the City, like two Armies, and fought; untill many were killed, and fell in great multitudes on the Earth.</p>
+                  <p>The like was neere <hi>Scarborough,</hi> not farre from <hi>Rippon</hi> in <hi>Yorkeſhire,</hi> in the yeere one thouſand ſix hundred forty foure, where thouſands of Crowes, called Rookes, did meete and fight in two bodies, untill an innumerable company were killed and fell upon the ground.</p>
+                  <p>In <hi>Norfolke,</hi> in the yeere of our Lord one thouſand ſix hun<g ref="char:EOLhyphen"/>dred forty five, a Childe was borne, who preſently ſpake ſome certaine things that ſhould enſue in theſe times, and lived not a<g ref="char:EOLhyphen"/>bove two houres.</p>
+                  <p>In <hi>Buckingham-ſhire</hi> in the yeare one thou<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſand ſix hundred fourty nine; A Child was borne (neere <hi>Alſbury</hi>) that declared ſome ſtrange paſſages, which ſhould happen in this Kingdome, and lived not above three dayes, but dyed.</p>
+                  <p>But I ſhall forbeare to mention any more in this Nature (be<g ref="char:EOLhyphen"/>cauſe I would not ſeeme tedious to the Reader:) And now to the Relation of this ſtrange and miraculous Wonder I promiſed you, which is Atteſted by many ſufficient eye Witneſſes there preſent, that will averre and manifeſt this Relation for a Truth, againſt the incredulous and unbeleeving times.</p>
+                  <p>On <hi>Monday July</hi> the ſixteenth, one thouſand ſix hundred fourty nine, neere <hi>Lempſter</hi> in <hi>Hereford-ſhire</hi> (hard by a Village called the <hi>Hope,</hi> not farre from <hi>Corfe-Caſtle</hi>) Certaine Worke<g ref="char:EOLhyphen"/>men or Mowers, that went to cut downe Graſſe or Hay, in a very large and ſpacious Field containing above threeſcore Acres, and being at their laborious Worke (betwixt the houres often and eleven) they heard the Crying of an Infant or a young Child, which they imagined to bee in the middle of the Field; but pau<g ref="char:EOLhyphen"/>ſing a little while with giving attention to it, not without ad<g ref="char:EOLhyphen"/>miration; they concluded unanimouſly, or all of them, to goe to the place from whence they heard the Voyce; and comeing
+<pb n="4" facs="tcp:165301:4"/>
+                     <!-- PDF PAGE 87 -->
+to the place in the middle of the Graſſe or Field, they found a young Child, which was wraped up in Swadling Clouts, and to their Judgements appeared not to bee above a quarter of a yeare old: ſtanding thus amazed with their eyes fixed upon the Child, at laſt reſolved to take it up, and to make ſome of the chiefe of the Towne acquainted with this Accident. But one of the Mowers or labouring Men (having never a Child at all, replyed hee would take it home as his owne, the reſt of them having made it knowne to the Towne, the Child was brought to a houſe, where the Inhabitants round about flocked together to ſee this Child; after every ones Cenſure was paſt upon this In<g ref="char:EOLhyphen"/>fant, they provided ſome ſuſtenance for it, ſuſpecting it was hungry, which was Milke and Flower boyled in it (which that Countrey calleth Pap;) the Child eating very heartily of it, and being therewith ſatisfied, begun to ſpeake to all the People there preſent, and told them that it was the beſt meate hee did ever eate, which Miracle in an Infant ſo young, bred admiration and aſtoniſhment in all the Spectators.</p>
+                  <p>This Child told them further, That the Warres of <hi>England</hi> ſhould continue three yeares longer, and that <hi>Charles</hi> a young King, whoſe Father was put to death by ſeventeene of his Sub<g ref="char:EOLhyphen"/>jects that Conſpired his death long before, who for Acting ſuch a bloody Tragedy ſhall come to untimely ends, not any of them ſhall dye in their Beds; ſaying alſo, that Innocent Blood calls for vengeance; and that which they ſpilt in the firſt Moneth, ſhall in the ſame Moneth prove their deſtruction, and His Sonne bee reſtored to the Crowne of <hi>England.</hi>
+                  </p>
+                  <p>Againe, this Child further related; that the Kingdome of <hi>Ireland</hi> ſhall Proclaime him King of His Fathers Realmes; and bee the landing place from all his Troubles and Exile: and after that, hee ſhall Conquer <hi>England</hi> againe, and ſhall deſtroy his and his Fathers Enemies, and bee a great and Powerfull Prince: Then ſhall this Land Flouriſh againe: And in that Field where hee was found ſhall bee a great and Bloody Battell fought, greater then any yet hath beene in this Kingdome, where the young King,
+<pb n="5" facs="tcp:165301:4"/>
+                     <!-- PDF PAGE 87 -->
+CHARLES, <hi>the Second</hi> of that name, ſhall get the day, and win the Field.</p>
+                  <p>The People and Inhabitants thereabouts, hearing theſe ſay<g ref="char:EOLhyphen"/>ings, proceeding from an Infant, were ſtruck into great amaze<g ref="char:EOLhyphen"/>ment, and after the Child had done ſpeaking, they reſolved how to provide for him; but he Anſwered again, take no care for Me; and withall deſired they would carry Him to the place where they found Him, which, according as hee Commanded them, they did: And being brought to the place they laid him downe, hee thanked them, and wiſhed them all to love one another, and relieve the oppreſſed, and ſuccour the fatherleſſe and the wid<g ref="char:EOLhyphen"/>dow, feare God and hee will bleſſe your Labour, bee no time<g ref="char:EOLhyphen"/>ſervers, meddle not with them that are given to change; obſerve theſe ſayings, your reward ſhall bee in Heaven: My time is ſet; I have no more to ſay, but now ſhall leave you. Uttering theſe words, <hi>Glory bee to God on high, peace on earth &amp;c.</hi> and ſo vaniſhed away.</p>
+                  <p>Some of the Inhabitants doe believe it to bee an Angell ſent from Heaven; ſome are of opinion, that it was a Child newly borne, and left there by the Mother, unto whom God gave Power and Strength to reveale his Will; but it hath left a deepe Impreſſion in the hearts of ſome of them. This Copy was taken by one that was both an eye and eare witneſſe of theſe ſayings and predictions, which this Infant revealed to all. His time of abode and continuance with us was about three houres.</p>
+                  <p>This Relation was Communicated from <hi>George Colly</hi> of <hi>Hope</hi> neere <hi>Lempſter,</hi> to a friend in <hi>London</hi> to bee publiſhed in Print, deſiring three hundred Copies to bee ſent him to beſtow upon friends.</p>
+                  <p>The Witneſſes that atteſt this Relation to bee Truth in every Particular; are,
+<list>
+                        <item>
+                           <hi>Sampſon Jones</hi> Gent.</item>
+                        <item>Henry Shipman,</item>
+                        <item>Richard Williams,</item>
+                        <item>John <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </item>
+                     </list>
+                  </p>
+                  <gap reason="missing" extent="1 page">
+                     <desc>〈1 page missing〉</desc>
+                  </gap>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text_fragment">
+                  <pb n="130" facs="tcp:165301:5"/>
+                  <!-- PDF PAGE 88 -->
+                  <gap reason="missing" extent="1+ pages">
+                     <desc>〈1… pages missing〉</desc>
+                  </gap>
+                  <p>The young King, from King of <hi>Great-brittanny,</hi> is honored (where-ere he comes<g ref="char:punc">▪</g>) as if he were Emperor of Chriſtendom, and not a King of three Kingdoms; and happy is that Prince can firſt diſpatch Ambaſſadors to him with Preſents, and overtures of aſſiſting him with men and money to recover his Right; The King of <hi>France</hi> hath not a little out-done the reſt, by free offer<g ref="char:EOLhyphen"/>ing him 10000 French, and to pay them two yeers, beſides 10000 pounds in Money; the Duke of <hi>Orleance, Normandy,</hi> and Prince of <hi>C<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ndy</hi> 50000 pounds; the King of <hi>Denmark</hi> 10000 Men, and 10000 pound; the Queen of <hi>Swethland</hi> 10000 Men, and 20000 pounds; the States of <hi>Holland</hi> 50 Ships ready Man'd and Victual'd for a yeer; the King of <hi>Poland</hi> 5000 Men, and pay for them for three yeers; the King of <hi>Spaine</hi> 10000 Piſtollets, &amp;c. What a ſhame it is for Engliſh-men, that they ſhould have no more love or natural Affection to their Native Prince, and rightful Soveraign, but to expoſe him to the Courteſie of Stran<g ref="char:EOLhyphen"/>gers, whilſt they ſtand adoring two or three <hi>Golden Calves</hi> of their own making!</p>
+                  <p>
+                     <hi>Noll</hi> is gone from <hi>Briſtol</hi> towards Milford Haven, and there ſticks till 100000 pounds be ſent him: Beer is but now a brew<g ref="char:EOLhyphen"/>ing to Ballance his Ships: The Party of Levellers have a New Deſign a foot; but that Harry Martin is loth to leave his belo<g ref="char:EOLhyphen"/>ved Miſtris <hi>Bettee</hi> in Coven-Garden, his Worſhips ſinner.</p>
+                  <p>Marques <hi>Ormond</hi> hath taken Rings-End, the Chief Fort that Commands all the River between Dublin and the Sea; and likewiſe the Block-houſe on the other ſide, and gained part of Dublin Colledge, that lies ſo low, that the Caſtle has no power over it: they have in readineſs Petards, Morter-pieces, Great Ordnance to batter, Sealling Ladders, Faggots and Ropes, and could take the City at pleaſure; but not without ſtore of bloud<g ref="char:EOLhyphen"/>ſhed, as well of their Friends, as others in the City: <hi>Jones</hi> hath betaken himſelf to the Caſtle, and is upon Articles of Treaty for the Surrender; for the Famine is as bad, or worſe, in this little time, then at Colecheſter; for Jones hath heaped up for him<g ref="char:EOLhyphen"/>ſelf in the Caſtle, and expoſed the reſt to ſtarving, which makes him generally Curſed: It is Reported that Hunks, Venables, Mores, and Reynolds Regiments coming into Dublin River, not thinking thoſe Forts were taken, and thinking to Land; are moſt cut off by Ordnance from the Forts; and Cromwels Son a Cap<g ref="char:EOLhyphen"/>tain<g ref="char:punc">▪</g> is cut to pieces.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
